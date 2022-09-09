@@ -1,7 +1,7 @@
 # Pokemon Game ToDo List
 
 ## Map Creation with Tiled Map Editor:
-- [x] Downloads and Setup
+- [] Downloads and Setup
     - [] Find assets
     - [] Download Tiled
     - [] Import into project
